@@ -4,6 +4,8 @@ estou estudando o alura;
 
 no momento n estou desenvolvendo nada;
 
+meu email:kakaumarques2021@gmail.com;
+
 
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVwbHEyZjB6dWh4b2lrMmU0ODB3ajZ2MnpkM3FobXcwcDZvMjVwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bErNByDgArbYA/giphy.webp)
 
